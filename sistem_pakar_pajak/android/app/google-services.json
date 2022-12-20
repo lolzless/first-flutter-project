@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151076841218",
+    "project_id": "sistempakarpajak",
+    "storage_bucket": "sistempakarpajak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151076841218:android:94594e81f9d1c55b9a441b",
+        "android_client_info": {
+          "package_name": "com.ardi.sistem_pakar_pajak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151076841218-drk63kn92v0v7fn20v81js7ri8plk4m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1fZ2N5hCaVWOU9HyPvvgS2jISfhNRm14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151076841218-drk63kn92v0v7fn20v81js7ri8plk4m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
